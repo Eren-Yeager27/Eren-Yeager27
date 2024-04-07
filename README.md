@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eren-Yeager27
+- 👋 Hi, I’m Sourendra Krishna De
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning .NET Framework
 - 📫 How to reach me sourendrade@gmail.com
